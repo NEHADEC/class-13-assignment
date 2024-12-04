@@ -1,3 +1,4 @@
+
 {
   "name": "auth-clerk-assignment",
   "version": "0.1.0",
@@ -12,13 +13,13 @@
     "@clerk/nextjs": "^6.5.2",
     "framer-motion": "^11.13.1",
     "next": "15.0.3",
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106"
+    "react": "18.3.1",  
+    "react-dom": "18.3.1"  
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/react": "^18", 
+    "@types/react-dom": "^18",  
     "daisyui": "^4.12.14",
     "eslint": "^8",
     "eslint-config-next": "15.0.3",
